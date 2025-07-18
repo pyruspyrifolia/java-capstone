@@ -1,4 +1,4 @@
-package com.restaurant.api.entities;
+package com.ascendient.daamsrv.entities;
 
 import jakarta.persistence.*;
 import java.math.BigDecimal;

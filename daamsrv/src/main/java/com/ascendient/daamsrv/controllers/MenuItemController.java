@@ -1,7 +1,7 @@
-package com.restaurant.api.controllers;
+package com.ascendient.daamsrv.controllers;
 
-import com.restaurant.api.entities.MenuItem;
-import com.restaurant.api.repositories.MenuItemRepository;
+import com.ascendient.daamsrv.entities.MenuItem;
+import com.ascendient.daamsrv.repositories.MenuItemRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

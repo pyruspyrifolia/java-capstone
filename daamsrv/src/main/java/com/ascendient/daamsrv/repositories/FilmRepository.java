@@ -1,6 +1,6 @@
-package com.restaurant.api.repositories;
+package com.ascendient.daamsrv.repositories;
 
-import com.restaurant.api.entities.Film;
+import com.ascendient.daamsrv.entities.Film;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -1,7 +1,7 @@
-package com.restaurant.api.controllers;
+package com.ascendient.daamsrv.controllers;
 
-import com.restaurant.api.entities.Film;
-import com.restaurant.api.repositories.FilmRepository;
+import com.ascendient.daamsrv.entities.Film;
+import com.ascendient.daamsrv.repositories.FilmRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
 //This encapsulates the full HTTP Response as a response entity

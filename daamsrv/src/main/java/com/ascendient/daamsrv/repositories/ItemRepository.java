@@ -1,7 +1,7 @@
 // src/main/java/com/restaurant/api/repositories/ItemRepository.java
-package com.restaurant.api.repositories;
+package com.ascendient.daamsrv.repositories;
 
-import com.restaurant.api.entities.Item;
+import com.ascendient.daamsrv.entities.Item;
 // jpa repository gives us access to many different crud functions
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
